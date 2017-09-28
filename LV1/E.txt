@@ -1,0 +1,10 @@
+1. Ð?i giá tr? c?a 2 bi?n
+ví d?: a=5,b=6; sau khi d?i : a=6, b=5
+2. nh?p vào s? giây, quy d?i ra gi? phút
+3.nh?p vào s? ngày, d?i ra tháng nam ( quy dinh 1 nam=365 ngày,  1 tháng =30 ngày)
+ví d?: 368 ngày = 1 nam 0 tháng 3 ngày
+4. d?i ch? thu?ng thành ch? hoa:
+ví d?: 'a'---->'A'
+5. d?i ch? hoa thành ch? thu?ng
+6.nh?p vào s? có 3 ch?, tìm s? d?o ngu?c c?a nó
+ví d?: 123 thì s? d?ongu?c là 321
